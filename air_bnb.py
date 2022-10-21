@@ -5,7 +5,7 @@ Air BnB clone dummy project
 
 class AirBnB():
 	"""
-	Class documentation
+	Class documentation for project
 	"""
 
 	__counter = 0

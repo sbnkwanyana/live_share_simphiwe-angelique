@@ -1,6 +1,6 @@
-	@property
-	def Name(self):
-		return "Name"
+@property
+def Name(self):
+    return "Name"
 
-	def greeting(self):
-		return "hello world"
+def greeting(self):
+    return "hello world"

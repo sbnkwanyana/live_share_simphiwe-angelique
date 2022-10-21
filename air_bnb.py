@@ -19,3 +19,6 @@ class AirBnB():
 		"""
 		print("hi")
 
+	@property
+	def Name(self):
+		return "Name"
